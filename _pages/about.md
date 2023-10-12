@@ -14,7 +14,7 @@ In my free time I like playing badminton, table tennis, or listening to music. I
 
 ## Recent Updates
 
-<table style="width:100%;border:0px;border-spacing:4px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+<table style="width:100%;border:0px;border-spacing:4px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <br>
           <tr>              
               <td><strong>[Sep 2023]</strong></td>
@@ -39,4 +39,4 @@ Grounded Concept Learner for Few-Shot Learning is accepted at BMVC 2023. (Code a
               <td><strong>[Sep 2021]</strong></td>
               <td> Started PhD at University of British Columbia under <a href="https://www.cs.ubc.ca/~lsigal/"> Dr Leonid Sigal</a>. </td>
             </tr>
-        </tbody></table>
+       </table>
