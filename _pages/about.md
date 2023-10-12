@@ -39,16 +39,4 @@ Grounded Concept Learner for Few-Shot Learning is accepted at BMVC 2023. (Code a
               <td><strong>[Sep 2021]</strong></td>
               <td> Started PhD at University of British Columbia under <a href="https://www.cs.ubc.ca/~lsigal/"> Dr Leonid Sigal </a>. </td>
             </tr>
-             <tr>              
-              <td><strong>[Feb 2021]</strong></td>
-              <td>Serving as a reviewer for ML Reproducibility Challenge 2020. </td>
-            </tr>
-            <tr>              
-              <td><strong>[Aug 2018]</strong></td>
-              <td>One paper accepted at Interspeech, chime workshop 2018. </td>
-            </tr>
-            <tr>              
-              <td><strong>[May 2018]</strong></td>
-              <td>Selected as a Outreachy intern, with Mozilla. </td>
-            </tr>
         </tbody></table>
