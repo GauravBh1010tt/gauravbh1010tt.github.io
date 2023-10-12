@@ -24,7 +24,7 @@ Part-based Learning </a> is accepted at NeurIPS 2023. (Code @GitHub will be adde
           <tr>              
               <td><strong>[Aug 2023]</strong></td>
               <td> Our paper Weakly-supervised Spatially
-Grounded Concept Learner for Few-Shot Learning </a> is accepted at BMVC 2023. (Code and paper will be added soon) </td>
+Grounded Concept Learner for Few-Shot Learning is accepted at BMVC 2023. (Code and paper will be added soon) </td>
             </tr>
           <tr>              
               <td><strong>[Oct 2022]</strong></td>
@@ -37,7 +37,7 @@ Grounded Concept Learner for Few-Shot Learning </a> is accepted at BMVC 2023. (C
           <tr>
           <tr>              
               <td><strong>[Sep 2021]</strong></td>
-              <td> Started PhD at University of British Columbia under <a href="https://www.cs.ubc.ca/~lsigal/"> Dr Leonid Sigal. </td>
+              <td> Started PhD at University of British Columbia under <a href="https://www.cs.ubc.ca/~lsigal/"> Dr Leonid Sigal </a>. </td>
             </tr>
              <tr>              
               <td><strong>[Feb 2021]</strong></td>
