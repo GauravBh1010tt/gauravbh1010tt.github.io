@@ -19,7 +19,7 @@ In my free time I like playing badminton, table tennis, or listening to music. I
           <tr>              
               <td><strong>[Sep 2023]</strong></td>
               <td> Our paper <a href="https://arxiv.org/pdf/2310.00377.pdf"> Mitigating the Effect of Incidental Correlations on
-Part-based Learning </a> is accepted at NeurIPS 2023. (Code @GitHub will be added soon)</td>
+Part-based Learning</a> is accepted at NeurIPS 2023. (Code @GitHub will be added soon)</td>
           </tr>      
           <tr>              
               <td><strong>[Aug 2023]</strong></td>
@@ -28,7 +28,7 @@ Grounded Concept Learner for Few-Shot Learning is accepted at BMVC 2023. (Code a
             </tr>
           <tr>              
               <td><strong>[Oct 2022]</strong></td>
-              <td> Our paper <a href="https://openaccess.thecvf.com/content/WACV2023/papers/Bhatt_Learning_Style_Subspaces_for_Controllable_Unpaired_Domain_Translation_WACV_2023_paper.pdf"> Learning Style Subspaces for Controllable Unpaired Domain Translation </a> is accepted at WACV 2023. (Code @GitHub will be added soon)</td>
+              <td> Our paper <a href="https://openaccess.thecvf.com/content/WACV2023/papers/Bhatt_Learning_Style_Subspaces_for_Controllable_Unpaired_Domain_Translation_WACV_2023_paper.pdf"> Learning Style Subspaces for Controllable Unpaired Domain Translation</a> is accepted at WACV 2023. (Code @GitHub will be added soon)</td>
             </tr>
           <tr>              
               <td><strong>[Mar 2022]</strong></td>
@@ -37,6 +37,6 @@ Grounded Concept Learner for Few-Shot Learning is accepted at BMVC 2023. (Code a
           <tr>
           <tr>              
               <td><strong>[Sep 2021]</strong></td>
-              <td> Started PhD at University of British Columbia under <a href="https://www.cs.ubc.ca/~lsigal/"> Dr Leonid Sigal </a>. </td>
+              <td> Started PhD at University of British Columbia under <a href="https://www.cs.ubc.ca/~lsigal/"> Dr Leonid Sigal</a>. </td>
             </tr>
         </tbody></table>
