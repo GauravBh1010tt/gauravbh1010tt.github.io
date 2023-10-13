@@ -38,4 +38,3 @@ Grounded Concept Learner for Few-Shot Learning is accepted at BMVC 2023. (Code a
               <td><strong>[Sep 2021]</strong></td>
               <td> Started PhD at University of British Columbia under <a href="https://www.cs.ubc.ca/~lsigal/"> Dr Leonid Sigal</a>. </td>
             </tr>
-       </table>
