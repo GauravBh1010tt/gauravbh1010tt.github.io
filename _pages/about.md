@@ -27,7 +27,7 @@ Grounded Concept Learner for Few-Shot Learning is accepted at BMVC 2023. (Code a
             </tr>
           <tr>              
               <td><strong>[Oct 2022]</strong></td>
-              <td> Our paper <a href="https://openaccess.thecvf.com/content/WACV2023/papers/Bhatt_Learning_Style_Subspaces_for_Controllable_Unpaired_Domain_Translation_WACV_2023_paper.pdf"> Learning Style Subspaces for Controllable Unpaired Domain Translation</a> is accepted at WACV 2023. (Code @GitHub will be added soon)</td>
+              <td> Our paper <a href="https://openaccess.thecvf.com/content/WACV2023/papers/Bhatt_Learning_Style_Subspaces_for_Controllable_Unpaired_Domain_Translation_WACV_2023_paper.pdf"> Learning Style Subspaces for Controllable Unpaired Domain Translation</a> is accepted at WACV 2023. (Code: <a href="https://github.com/GauravBh1010tt/Controllable-Domain-Translation"> GitHub </a>)</td>
             </tr>
           <tr>              
               <td><strong>[Mar 2022]</strong></td>
