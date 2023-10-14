@@ -16,7 +16,7 @@ In my free time I like playing badminton, table tennis, or listening to music. I
 
 <table style="width:100%;border:1px;border-spacing:8px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>              
-              <td style="width:10%"><strong> [Sep 2023] </strong></td>
+              <td style="width:12%"><strong> [Sep 2023] </strong></td>
               <td> Our paper <a href="https://arxiv.org/pdf/2310.00377.pdf"> Mitigating the Effect of Incidental Correlations on
 Part-based Learning</a> is accepted at NeurIPS 2023. (Code @GitHub will be added soon)</td>
           </tr>      
