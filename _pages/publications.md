@@ -40,45 +40,51 @@ Mitigating the Effect of Incidenal Correlations on Part-based Learning. NeurIPS,
 <tr style="border-collapse: separate; border-spacing:30em;">
 
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/joint.png" width="800"/>
+<img src="https://raw.githubusercontent.com/GauravBh1010tt/GauravBh1010tt.github.io/master/images/bmvc.png" width="800"/>
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-Joint-task Self-supervised Learning for Temporal Correspondence. NeurIPS, 2019.
+Weakly-supervised Spatially Grounded Concept Learner for Few-Shot Learning. BMVC, 2023.
   
-<b>Xueting Li*</b> , Sifei Liu* , Shalini De Mello, Xiaolong Wang, Jan Kautz, Ming-Hsuan Yang. 
+<b>Gaurav Bhatt</b> ,Deepayan Das, Leonid Sigal, Vineeth N Balasubramanian
 <br>
 
+<!--- 
 <img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://arxiv.org/abs/1909.11895">arxiv paper</a></span>
+<span><a href="Coming soon"> Paper</a></span>
 <br>
 <img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/web_icon.png" width="20" height="20" hspace="5" >
 <span><a href="https://sites.google.com/view/uvc2019/">project page</a></span>
 <br>
 <img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
 <span><a href="https://github.com/Liusifei/UVC">code</a></span>
+--->
 </td>
 </tr>
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/sgpn.png" width="800"/>
+<img src="https://raw.githubusercontent.com/GauravBh1010tt/GauravBh1010tt.github.io/master/images/wacv.png" width="800"/>
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-Learning Propagation for Arbitrarily-structured Data. ICCV, 2019.
+Learning Style Subspaces for Controllable Unpaired Domain Translation. WACV, 2023.
   
-Sifei Liu, <b>Xueting Li</b> , Varun Jampani, Shalini De Mello, Jan Kautz.  
+<b>Gaurav Bhatt</b> , Vineeth N Balasubramanian  
 <br>
 
 <img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://arxiv.org/abs/1909.11237">arxiv paper</a></span>
+<span><a href="https://openaccess.thecvf.com/content/WACV2023/papers/Bhatt_Learning_Style_Subspaces_for_Controllable_Unpaired_Domain_Translation_WACV_2023_paper.pdf">Paper</a></span>
+<br>
+<img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+<span><a href="https://github.com/GauravBh1010tt/Controllable-Domain-Translation">code</a></span>
 <br>
 <br>
 </td>
 </tr>
 
+<!---
 <tr style="border-collapse: separate; border-spacing:30em;">
 
 <td style="border-collapse: collapse; border: none;">
@@ -149,7 +155,7 @@ Yijun Li , Ming-Yu Liu , <b>Xueting Li</b> , Ming-Hsuan Yang , Jan Kautz.
 
 </tr>
 
-
+--->
 
 
 </table>
