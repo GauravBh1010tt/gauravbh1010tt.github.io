@@ -17,8 +17,8 @@ In my free time I like playing badminton, table tennis, or listening to music. I
 <table style="width:100%;border:1px;border-spacing:8px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>              
               <td style="width:12%"><strong> [Sep 2023] </strong></td>
-              <td> Our paper <a href=https://openreview.net/forum?id=8Xn3D9OtqI"> Mitigating the Effect of Incidental Correlations on
-Part-based Learning</a> is accepted at NeurIPS 2023. (Code: <a href="https://github.com/GauravBh1010tt/DPViT.git"> GitHub</a>, Slides : <a href="https://neurips.cc/media/neurips-2023/Slides/72642.pdf"> NeurIPS Slides</a>))</td>
+              <td> Our paper <a href="https://openreview.net/forum?id=8Xn3D9OtqI"> Mitigating the Effect of Incidental Correlations on
+Part-based Learning</a> is accepted at NeurIPS 2023. (Code: <a href="https://github.com/GauravBh1010tt/DPViT.git"> GitHub</a>, Slides : <a href="https://neurips.cc/media/neurips-2023/Slides/72642.pdf"> NeurIPS Slides</a>)</td>
           </tr>      
           <tr>              
               <td><strong> [Aug 2023] </strong></td>
