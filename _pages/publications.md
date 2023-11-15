@@ -40,7 +40,7 @@ Mitigating the Effect of Incidenal Correlations on Part-based Learning. NeurIPS,
 <tr style="border-collapse: separate; border-spacing:30em;">
 
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/GauravBh1010tt/GauravBh1010tt.github.io/master/images/bmvc.png" height="300" width="800"/>
+<img src="https://raw.githubusercontent.com/GauravBh1010tt/GauravBh1010tt.github.io/master/images/bmvc.png" width="800" height="100"/>
 </td>
 
 <td style="border-collapse: collapse; border: none;">
