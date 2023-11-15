@@ -14,23 +14,23 @@ author_profile: true
 <tr style="border-collapse: separate; border-spacing:30em;">
 
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/umr.gif" width="800"/>
+<img src="https://github.com/GauravBh1010tt/DPViT/blob/main/figs/dpvit.png" width="800"/>
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-Self-supervised Single-view 3D Reconstruction via Semantic Consistency. ECCV, 2020.
+Mitigating the Effect of Incidenal Correlations on Part-based Learning. NeurIPS, 2023.
   
-<b>Xueting Li</b> ,Sifei Liu, Kihwan Kim, Shalini De Mello, Varun Jampani, Ming-Hsuan Yang, Jan Kautz
+<b>Gaurav Bhatt</b> ,Deepayan Das, Leonid Sigal, Vineeth N Balasubramanian
 <br>
 
 <img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://arxiv.org/abs/2003.06473">arxiv paper</a></span>
+<span><a href="https://openreview.net/forum?id=8Xn3D9OtqI">Paper</a></span>
 <br>
 <img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/web_icon.png" width="20" height="20" hspace="5" >
-<span><a href="https://sites.google.com/nvidia.com/unsup-mesh-2020">project page</a></span>
+<span><a href="https://neurips.cc/media/neurips-2023/Slides/72642.pdf">Slides</a></span>
 <br>
 <img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://github.com/NVlabs/UMR">code</a></span>
+<span><a href="https://github.com/GauravBh1010tt/DPViT.git">code</a></span>
 </td>
 
 </tr>
