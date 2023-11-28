@@ -8,7 +8,7 @@ author_profile: true
 
 [Google Scholar](https://scholar.google.co.in/citations?user=PcmMT-4AAAAJ&hl=en)
 
-## Publications
+## Selected Publications
 <table style="border: none; border-collapse: collapse;" border="0">
   
 <tr style="border-collapse: separate; border-spacing:30em;">
