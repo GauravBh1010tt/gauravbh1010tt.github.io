@@ -87,6 +87,7 @@ Learning Style Subspaces for Controllable Unpaired Domain Translation. WACV, 202
 <span><a href="https://github.com/GauravBh1010tt/Controllable-Domain-Translation">code</a></span>
 <br>
 <br>
+<br>
 </td>
 </tr>
 
