@@ -22,8 +22,8 @@ Part-based Learning</a> is accepted at NeurIPS 2023. (Code: <a href="https://git
           </tr>      
           <tr>              
               <td><strong> [Aug 2023] </strong></td>
-              <td> Our paper Weakly-supervised Spatially
-Grounded Concept Learner for Few-Shot Learning is accepted at BMVC 2023. (Code and paper will be added soon) </td>
+              <td> Our paper  <a href="https://papers.bmvc2023.org/0858.pdf"> Weakly-supervised Spatially
+Grounded Concept Learner for Few-Shot Learning</a> is accepted at BMVC 2023. (Poster : <a href="https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0858_poster.pdf"> BMVC Slides) </td>
             </tr>
           <tr>              
               <td><strong> [Oct 2022] </strong></td>

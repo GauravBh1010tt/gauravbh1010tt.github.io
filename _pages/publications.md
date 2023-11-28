@@ -48,7 +48,11 @@ Weakly-supervised Spatially Grounded Concept Learner for Few-Shot Learning. BMVC
   
 <b>Gaurav Bhatt</b> ,Deepayan Das, Leonid Sigal, Vineeth N Balasubramanian
 <br>
+<img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+<span><a href="https://papers.bmvc2023.org/0858.pdf">Paper</a></span>
 <br>
+<img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/web_icon.png" width="20" height="20" hspace="5" >
+<span><a href="https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0858_poster.pdf">Poster</a></span>
 <br>
 
 <!--- 
