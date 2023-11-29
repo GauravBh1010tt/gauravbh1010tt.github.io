@@ -8,6 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3RM1Q5B81D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3RM1Q5B81D');
+</script>
+
 Hi, my name is Gaurav Bhatt. I am a PhD student in CV-ML Lab at the University of British Columbia. My supervisor is Dr. Leonid Sigal. Previously, I have worked as a Research Assistant under Dr Vineeth N Balasubramanian at IIT-Hyderabad. My research interest spans across deep learning, representation learning, zero/few-shot learning, domain translations, and continual learning.
 
 In my free time I like playing badminton, table tennis, or listening to music. I was a addicted DOTA2 player at some point of time :)
