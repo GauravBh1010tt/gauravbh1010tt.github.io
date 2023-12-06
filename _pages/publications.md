@@ -50,7 +50,7 @@ Aditya Chinchure*, Pushkar Shukla*, <b>Gaurav Bhatt</b>, Kiri Salji, Kartik Hosa
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-<b>NeurIPS, 2023</b> Mitigating the Effect of Incidenal Correlations on Part-based Learning.
+<b>[NeurIPS, 2023]</b> Mitigating the Effect of Incidenal Correlations on Part-based Learning.
 <b>Gaurav Bhatt</b>, Deepayan Das, Leonid Sigal, Vineeth N Balasubramanian
 <br>
 
@@ -75,7 +75,7 @@ Aditya Chinchure*, Pushkar Shukla*, <b>Gaurav Bhatt</b>, Kiri Salji, Kartik Hosa
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-<b>BMVC, 2023</b> Weakly-supervised Spatially Grounded Concept Learner for Few-Shot Learning.
+<b>[BMVC, 2023]</b> Weakly-supervised Spatially Grounded Concept Learner for Few-Shot Learning.
 <b>Gaurav Bhatt</b>, Deepayan Das, Leonid Sigal, Vineeth N Balasubramanian
 <br>
 <img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
@@ -105,7 +105,7 @@ Aditya Chinchure*, Pushkar Shukla*, <b>Gaurav Bhatt</b>, Kiri Salji, Kartik Hosa
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-<b>WACV, 2023</b> Learning Style Subspaces for Controllable Unpaired Domain Translation.
+<b>[WACV, 2023]</b> Learning Style Subspaces for Controllable Unpaired Domain Translation.
 <b>Gaurav Bhatt</b>, Vineeth N Balasubramanian  
 <br>
 
@@ -128,7 +128,7 @@ Aditya Chinchure*, Pushkar Shukla*, <b>Gaurav Bhatt</b>, Kiri Salji, Kartik Hosa
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-<b>Pattern Recognition, 2019</b> Representation learning using step-based deep multi-modal autoencoders.
+<b>[Pattern Recognition, 2019]</b> Representation learning using step-based deep multi-modal autoencoders.
   
 <b>Gaurav Bhatt</b>, Piyush Jha, Balasubramanian Raman
 <br>
