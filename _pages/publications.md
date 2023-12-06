@@ -50,7 +50,7 @@ Aditya Chinchure*, Pushkar Shukla*, <b>Gaurav Bhatt</b>, Kiri Salji, Kartik Hosa
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-Mitigating the Effect of Incidenal Correlations on Part-based Learning. NeurIPS, 2023.
+Mitigating the Effect of Incidenal Correlations on Part-based Learning. <b>NeurIPS, 2023</b>.
   
 <b>Gaurav Bhatt</b> ,Deepayan Das, Leonid Sigal, Vineeth N Balasubramanian
 <br>
@@ -76,7 +76,7 @@ Mitigating the Effect of Incidenal Correlations on Part-based Learning. NeurIPS,
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-Weakly-supervised Spatially Grounded Concept Learner for Few-Shot Learning. BMVC, 2023.
+Weakly-supervised Spatially Grounded Concept Learner for Few-Shot Learning. <b>BMVC, 2023</b>.
   
 <b>Gaurav Bhatt</b> ,Deepayan Das, Leonid Sigal, Vineeth N Balasubramanian
 <br>
@@ -107,7 +107,7 @@ Weakly-supervised Spatially Grounded Concept Learner for Few-Shot Learning. BMVC
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-Learning Style Subspaces for Controllable Unpaired Domain Translation. WACV, 2023.
+Learning Style Subspaces for Controllable Unpaired Domain Translation. <b>WACV, 2023</b>.
   
 <b>Gaurav Bhatt</b> , Vineeth N Balasubramanian  
 <br>
@@ -131,7 +131,7 @@ Learning Style Subspaces for Controllable Unpaired Domain Translation. WACV, 202
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-Representation learning using step-based deep multi-modal autoencoders. Pattern Recognition, 2019.
+Representation learning using step-based deep multi-modal autoencoders. <b>Pattern Recognition, 2019</b>.
   
 <b>Gaurav Bhatt</b> , Piyush Jha, Balasubramanian Raman
 <br>
