@@ -28,7 +28,7 @@ author_profile: true
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-TIBET: Identifying and Evaluating Biases in Text-to-Image Generative Models. arXiv, 2023.
+<b>[arXiv, 2023]</b> TIBET: Identifying and Evaluating Biases in Text-to-Image Generative Models.
   
 Aditya Chinchure*, Pushkar Shukla*, <b>Gaurav Bhatt</b>, Kiri Salji, Kartik Hosanagar, Leonid Sigal, Mathew Turk
 <br>
@@ -50,9 +50,8 @@ Aditya Chinchure*, Pushkar Shukla*, <b>Gaurav Bhatt</b>, Kiri Salji, Kartik Hosa
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-Mitigating the Effect of Incidenal Correlations on Part-based Learning. <b>NeurIPS, 2023</b>.
-  
-<b>Gaurav Bhatt</b> ,Deepayan Das, Leonid Sigal, Vineeth N Balasubramanian
+<b>NeurIPS, 2023</b> Mitigating the Effect of Incidenal Correlations on Part-based Learning.
+<b>Gaurav Bhatt</b>, Deepayan Das, Leonid Sigal, Vineeth N Balasubramanian
 <br>
 
 <img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
@@ -76,9 +75,8 @@ Mitigating the Effect of Incidenal Correlations on Part-based Learning. <b>NeurI
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-Weakly-supervised Spatially Grounded Concept Learner for Few-Shot Learning. <b>BMVC, 2023</b>.
-  
-<b>Gaurav Bhatt</b> ,Deepayan Das, Leonid Sigal, Vineeth N Balasubramanian
+<b>BMVC, 2023</b> Weakly-supervised Spatially Grounded Concept Learner for Few-Shot Learning.
+<b>Gaurav Bhatt</b>, Deepayan Das, Leonid Sigal, Vineeth N Balasubramanian
 <br>
 <img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
 <span><a href="https://papers.bmvc2023.org/0858.pdf">Paper</a></span>
@@ -107,9 +105,8 @@ Weakly-supervised Spatially Grounded Concept Learner for Few-Shot Learning. <b>B
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-Learning Style Subspaces for Controllable Unpaired Domain Translation. <b>WACV, 2023</b>.
-  
-<b>Gaurav Bhatt</b> , Vineeth N Balasubramanian  
+<b>WACV, 2023</b> Learning Style Subspaces for Controllable Unpaired Domain Translation.
+<b>Gaurav Bhatt</b>, Vineeth N Balasubramanian  
 <br>
 
 <img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
@@ -131,9 +128,9 @@ Learning Style Subspaces for Controllable Unpaired Domain Translation. <b>WACV, 
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-Representation learning using step-based deep multi-modal autoencoders. <b>Pattern Recognition, 2019</b>.
+<b>Pattern Recognition, 2019</b> Representation learning using step-based deep multi-modal autoencoders.
   
-<b>Gaurav Bhatt</b> , Piyush Jha, Balasubramanian Raman
+<b>Gaurav Bhatt</b>, Piyush Jha, Balasubramanian Raman
 <br>
 
 <img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
