@@ -19,12 +19,13 @@ author_profile: true
 [Google Scholar](https://scholar.google.co.in/citations?user=PcmMT-4AAAAJ&hl=en)
 
 ## Selected Publications
+
 <table style="border: none; border-collapse: collapse;" border="0">
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/GauravBh1010tt/GauravBh1010tt.github.io/master/images/tibet.png" width="800"/>
+<img src="https://raw.githubusercontent.com/GauravBh1010tt/GauravBh1010tt.github.io/master/images/md_detr.png" width="800"/>
 </td>
 
 <td style="border-collapse: collapse; border: none;">
