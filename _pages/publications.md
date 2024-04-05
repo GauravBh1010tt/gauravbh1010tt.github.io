@@ -25,7 +25,7 @@ author_profile: true
 <tr style="border-collapse: separate; border-spacing:30em;">
 
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/GauravBh1010tt/GauravBh1010tt.github.io/master/images/md_detr.png" width="700"/>
+<img src="https://raw.githubusercontent.com/GauravBh1010tt/GauravBh1010tt.github.io/master/images/md_detr.png" width="500"/>
 </td>
 
 <td style="border-collapse: collapse; border: none;">
