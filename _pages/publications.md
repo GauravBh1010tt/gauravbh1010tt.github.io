@@ -28,6 +28,31 @@ author_profile: true
 </td>
 
 <td style="border-collapse: collapse; border: none;">
+<b>[arXiv, 2024]</b> Preventing Catastrophic Forgetting through Memory Networks in Continuous Detection.
+  
+<b>Gaurav Bhatt*</b>, James Ross, Leonid Sigal
+<br>
+
+<img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+<span><a href="https://arxiv.org/pdf/2403.14797.pdf">Paper</a></span>
+<br>
+<br>
+<br>
+</td>
+
+</tr>
+
+
+
+<table style="border: none; border-collapse: collapse;" border="0">
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/GauravBh1010tt/GauravBh1010tt.github.io/master/images/tibet.png" width="800"/>
+</td>
+
+<td style="border-collapse: collapse; border: none;">
 <b>[arXiv, 2023]</b> TIBET: Identifying and Evaluating Biases in Text-to-Image Generative Models.
   
 Aditya Chinchure*, Pushkar Shukla*, <b>Gaurav Bhatt</b>, Kiri Salji, Kartik Hosanagar, Leonid Sigal, Mathew Turk
