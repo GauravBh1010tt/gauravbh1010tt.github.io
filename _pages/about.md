@@ -38,13 +38,13 @@ In my free time I like playing badminton, table tennis, or listening to music. I
 
           <tr>              
               <td style="width:12%"><strong> [July 2024] </strong></td>
-              <td> Our paper <a href="https://arxiv.org/pdf/2312.01261.pd"> TIBET: Identifying and Evaluating Biases in Text-to-Image Generative Models.</a> is accepted at <b> ECCV 2024 </b>. (Code: Coming soon on GitHub)</td>
+              <td> Our paper <a href="https://arxiv.org/pdf/2312.01261.pd"> TIBET: Identifying and Evaluating Biases in Text-to-Image Generative Models.</a> is accepted at <b> ECCV 2024</b>. (Code: Coming soon on GitHub)</td>
           </tr>     
           
           <tr>              
               <td style="width:12%"><strong> [Sep 2023] </strong></td>
               <td> Our paper <a href="https://openreview.net/forum?id=8Xn3D9OtqI"> Mitigating the Effect of Incidental Correlations on
-Part-based Learning</a> is accepted at <b> NeurIPS 2023 </b>. (Code: <a href="https://github.com/GauravBh1010tt/DPViT.git"> GitHub</a>, Slides : <a href="https://neurips.cc/media/neurips-2023/Slides/72642.pdf"> NeurIPS Slides</a>)</td>
+Part-based Learning</a> is accepted at <b> NeurIPS 2023</b>. (Code: <a href="https://github.com/GauravBh1010tt/DPViT.git"> GitHub</a>, Slides : <a href="https://neurips.cc/media/neurips-2023/Slides/72642.pdf"> NeurIPS Slides</a>)</td>
           </tr>      
           <tr>              
               <td><strong> [Aug 2023] </strong></td>
@@ -57,7 +57,7 @@ Grounded Concept Learner for Few-Shot Learning</a> is accepted at <b> BMVC 2023 
             </tr>
           <tr>              
               <td><strong> [Mar 2022] </strong></td>
-              <td> Started working as a researcher at <b>The Vector Institute </b>, Toronto, Canada. </td>
+              <td> Started working as a researcher at <b>The Vector Institute</b>, Toronto, Canada. </td>
             </tr>
           <tr>
           <tr>              
