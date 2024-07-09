@@ -57,7 +57,7 @@ Grounded Concept Learner for Few-Shot Learning</a> is accepted at <b> BMVC 2023 
             </tr>
           <tr>              
               <td><strong> [Mar 2022] </strong></td>
-              <td> Started working as a researcher at <b>The Vector Institute<\b>, Toronto, Canada. </td>
+              <td> Started working as a researcher at <b>The Vector Institute </b>, Toronto, Canada. </td>
             </tr>
           <tr>
           <tr>              
