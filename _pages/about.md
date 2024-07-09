@@ -18,7 +18,7 @@ redirect_from:
   gtag('config', 'G-3RM1Q5B81D');
 </script>
 
-Hi, my name is Gaurav Bhatt. I am a PhD student in CV-ML Lab at the University of British Columbia. My supervisor is Dr. Leonid Sigal. Previously, I have worked as a Research Assistant under Dr Vineeth N Balasubramanian at IIT-Hyderabad. My research interest spans across deep learning, representation learning, zero/few-shot learning, domain translations, and continual learning. In summer 2024, I have started my internship at Amazon Science, Palo Alto, SF, where I am working with Holakou Rahmanian, Kiran Thekumparampil, Tanmay Gangwani and Evan Sheehan.
+Hi, my name is Gaurav Bhatt. I am a PhD student in CV-ML Lab at the University of British Columbia. My supervisor is Dr. Leonid Sigal. Previously, I have worked as a Research Assistant under Dr Vineeth N Balasubramanian at IIT-Hyderabad. My research interest spans across deep learning, representation learning, zero/few-shot learning, domain translations, and continual learning. In summer 2024, I have started my internship at Amazon Science, Palo Alto, where I am working with Holakou Rahmanian, Kiran Thekumparampil, Tanmay Gangwani and Evan Sheehan on ranking as optimization problem.
 
 In my free time I like playing badminton, table tennis, or listening to music. I was a addicted DOTA2 player at some point of time :)
 
@@ -28,39 +28,39 @@ In my free time I like playing badminton, table tennis, or listening to music. I
           
           <tr>              
               <td style="width:12%"><strong> [July 2024] </strong></td>
-              <td> Started internship at Amazon Science, Palo Alto, US.</td>
+              <td> Started internship at <b>Amazon Science</b>, Palo Alto, US.</td>
           </tr>     
           
           <tr>              
               <td style="width:12%"><strong> [July 2024] </strong></td>
-              <td> Our paper <a href="https://arxiv.org/pdf/2403.14797.pdf"> Preventing Catastrophic Forgetting through Memory Networks in Continuous Detection. </a> is accepted at ECCV 2024. (Code: Coming soon on GitHub</a>)</td>
+              <td> Our paper <a href="https://arxiv.org/pdf/2403.14797.pdf"> Preventing Catastrophic Forgetting through Memory Networks in Continuous Detection. </a> is accepted at <b>ECCV 2024</b>. (Code: Coming soon on GitHub)</td>
           </tr>     
 
           <tr>              
               <td style="width:12%"><strong> [July 2024] </strong></td>
-              <td> Our paper <a href="https://arxiv.org/pdf/2312.01261.pd"> TIBET: Identifying and Evaluating Biases in Text-to-Image Generative Models.</a> is accepted at ECCV 2024. (Code: Coming soon on GitHub</a>)</td>
+              <td> Our paper <a href="https://arxiv.org/pdf/2312.01261.pd"> TIBET: Identifying and Evaluating Biases in Text-to-Image Generative Models.</a> is accepted at <b> ECCV 2024 </b>. (Code: Coming soon on GitHub)</td>
           </tr>     
           
           <tr>              
               <td style="width:12%"><strong> [Sep 2023] </strong></td>
               <td> Our paper <a href="https://openreview.net/forum?id=8Xn3D9OtqI"> Mitigating the Effect of Incidental Correlations on
-Part-based Learning</a> is accepted at NeurIPS 2023. (Code: <a href="https://github.com/GauravBh1010tt/DPViT.git"> GitHub</a>, Slides : <a href="https://neurips.cc/media/neurips-2023/Slides/72642.pdf"> NeurIPS Slides</a>)</td>
+Part-based Learning</a> is accepted at <b> NeurIPS 2023 </b>. (Code: <a href="https://github.com/GauravBh1010tt/DPViT.git"> GitHub</a>, Slides : <a href="https://neurips.cc/media/neurips-2023/Slides/72642.pdf"> NeurIPS Slides</a>)</td>
           </tr>      
           <tr>              
               <td><strong> [Aug 2023] </strong></td>
               <td> Our paper  <a href="https://papers.bmvc2023.org/0858.pdf"> Weakly-supervised Spatially
-Grounded Concept Learner for Few-Shot Learning</a> is accepted at BMVC 2023. (Poster : <a href="https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0858_poster.pdf"> BMVC Poster </a>) </td>
+Grounded Concept Learner for Few-Shot Learning</a> is accepted at <b> BMVC 2023 </b>. (Poster : <a href="https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0858_poster.pdf"> BMVC Poster </a>) </td>
             </tr>
           <tr>              
               <td><strong> [Oct 2022] </strong></td>
-              <td> Our paper <a href="https://openaccess.thecvf.com/content/WACV2023/papers/Bhatt_Learning_Style_Subspaces_for_Controllable_Unpaired_Domain_Translation_WACV_2023_paper.pdf"> Learning Style Subspaces for Controllable Unpaired Domain Translation</a> is accepted at WACV 2023. (Code: <a href="https://github.com/GauravBh1010tt/Controllable-Domain-Translation"> GitHub</a>)</td>
+              <td> Our paper <a href="https://openaccess.thecvf.com/content/WACV2023/papers/Bhatt_Learning_Style_Subspaces_for_Controllable_Unpaired_Domain_Translation_WACV_2023_paper.pdf"> Learning Style Subspaces for Controllable Unpaired Domain Translation</a> is accepted at <b>WACV 2023</b>. (Code: <a href="https://github.com/GauravBh1010tt/Controllable-Domain-Translation"> GitHub</a>)</td>
             </tr>
           <tr>              
               <td><strong> [Mar 2022] </strong></td>
-              <td> Started working as a researcher at The Vector Institute, Toronto, Canada. </td>
+              <td> Started working as a researcher at <b>The Vector Institute<\b>, Toronto, Canada. </td>
             </tr>
           <tr>
           <tr>              
               <td><strong> [Sep 2021] </strong></td>
-              <td> Started PhD at University of British Columbia under <a href="https://www.cs.ubc.ca/~lsigal/"> Dr Leonid Sigal</a>. </td>
+              <td> Started PhD at <b>University of British Columbia</b> under <a href="https://www.cs.ubc.ca/~lsigal/"> Dr Leonid Sigal</a>. </td>
             </tr>
