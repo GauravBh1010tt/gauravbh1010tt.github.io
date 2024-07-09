@@ -18,13 +18,29 @@ redirect_from:
   gtag('config', 'G-3RM1Q5B81D');
 </script>
 
-Hi, my name is Gaurav Bhatt. I am a PhD student in CV-ML Lab at the University of British Columbia. My supervisor is Dr. Leonid Sigal. Previously, I have worked as a Research Assistant under Dr Vineeth N Balasubramanian at IIT-Hyderabad. My research interest spans across deep learning, representation learning, zero/few-shot learning, domain translations, and continual learning.
+Hi, my name is Gaurav Bhatt. I am a PhD student in CV-ML Lab at the University of British Columbia. My supervisor is Dr. Leonid Sigal. Previously, I have worked as a Research Assistant under Dr Vineeth N Balasubramanian at IIT-Hyderabad. My research interest spans across deep learning, representation learning, zero/few-shot learning, domain translations, and continual learning. In summer 2024, I have started my internship at Amazon Science, Palo Alto, SF, where I am working with Holakou Rahmanian, Kiran Thekumparampil, Tanmay Gangwani and Evan Sheehan.
 
 In my free time I like playing badminton, table tennis, or listening to music. I was a addicted DOTA2 player at some point of time :)
 
 ## Recent Updates
 
 <table style="width:100%;border:1px;border-spacing:8px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          
+          <tr>              
+              <td style="width:12%"><strong> [July 2024] </strong></td>
+              <td> Started internship at Amazon Science, Palo Alto, US.</td>
+          </tr>     
+          
+          <tr>              
+              <td style="width:12%"><strong> [July 2024] </strong></td>
+              <td> Our paper <a href="https://arxiv.org/pdf/2403.14797.pdf"> Preventing Catastrophic Forgetting through Memory Networks in Continuous Detection. </a> is accepted at ECCV 2024. (Code: Coming soon on GitHub</a>)</td>
+          </tr>     
+
+          <tr>              
+              <td style="width:12%"><strong> [July 2024] </strong></td>
+              <td> Our paper <a href="https://arxiv.org/pdf/2312.01261.pd"> TIBET: Identifying and Evaluating Biases in Text-to-Image Generative Models.</a> is accepted at ECCV 2024. (Code: Coming soon on GitHub</a>)</td>
+          </tr>     
+          
           <tr>              
               <td style="width:12%"><strong> [Sep 2023] </strong></td>
               <td> Our paper <a href="https://openreview.net/forum?id=8Xn3D9OtqI"> Mitigating the Effect of Incidental Correlations on

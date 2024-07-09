@@ -29,7 +29,7 @@ author_profile: true
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-<b>[arXiv, 2024]</b> Preventing Catastrophic Forgetting through Memory Networks in Continuous Detection.
+<b>[ECCV, 2024]</b> Preventing Catastrophic Forgetting through Memory Networks in Continuous Detection.
   
 <b>Gaurav Bhatt*</b>, James Ross, Leonid Sigal
 <br>
@@ -54,7 +54,7 @@ author_profile: true
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-<b>[arXiv, 2023]</b> TIBET: Identifying and Evaluating Biases in Text-to-Image Generative Models.
+<b>[ECCV, 2024]</b> TIBET: Identifying and Evaluating Biases in Text-to-Image Generative Models.
   
 Aditya Chinchure*, Pushkar Shukla*, <b>Gaurav Bhatt</b>, Kiri Salji, Kartik Hosanagar, Leonid Sigal, Mathew Turk
 <br>
