@@ -18,9 +18,13 @@ redirect_from:
   gtag('config', 'G-3RM1Q5B81D');
 </script>
 
-Hi, my name is Gaurav Bhatt. I am a PhD student in CV-ML Lab at the University of British Columbia. My supervisor is Dr. Leonid Sigal. Previously, I have worked as a Research Assistant under Dr Vineeth N Balasubramanian at IIT-Hyderabad. My research interest spans across deep learning, representation learning, zero/few-shot learning, domain translations, and continual learning. In summer 2024, I have started my internship at Amazon Science, Palo Alto, where I am working with Holakou Rahmanian, Kiran Thekumparampil, Tanmay Gangwani and Evan Sheehan on ranking as optimization problem.
+Hello, my name is Gaurav Bhatt. I am a PhD student in the CV-ML Lab at the University of British Columbia, where I work with Dr. <a href="https://www.cs.ubc.ca/~lsigal/people.html"> Leonid Sigal</a>. Previously, I served as a Research Assistant under Dr. <a href="https://people.iith.ac.in/vineethnb/alumni.html"> Vineeth N. Balasubramanian</a> at IIT-Hyderabad. My research experience include deep learning, representation learning, zero/few-shot learning, domain translations, and continual learning. Quiet recently, I have started working on safe and realiable use of LLMs and GenAI models.
 
-In my free time I like playing badminton, table tennis, or listening to music. I was a addicted DOTA2 player at some point of time :)
+I am also an affiliated researcher at the <a href="https://vectorinstitute.ai/research/researchers/"> Vector Institute for AI</a> in Toronto. At the Vector Institute, I worked as a Technical Facilitator for the FastLane program, RAG boot camps and BIAS in AI workshop, supervising machine learning teams from various companies such as RBC Data Science, Canadian Tire, Scotia Bank, FirstHX, RealSage, NextIntelligence, and Formic-AI.
+
+In the summer of 2024, I began my internship at Amazon Science in Palo Alto, where my project focuses on solving the ranking-as-optimization problem. I am collaborating with Holakou Rahmanian, Kiran Thekumparampil, and Tanmay Gangwani.
+
+In my free time, I enjoy playing badminton and table tennis, or listening to music. I used to be an avid DOTA2 player. :)
 
 ## Recent Updates
 
