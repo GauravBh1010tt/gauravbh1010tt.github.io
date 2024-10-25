@@ -42,7 +42,7 @@ In my free time, I enjoy playing badminton and table tennis, or listening to mus
 
           <tr>              
               <td style="width:12%"><strong> [July 2024] </strong></td>
-              <td> Our paper <a href="https://arxiv.org/pdf/2312.01261.pd"> TIBET: Identifying and Evaluating Biases in Text-to-Image Generative Models.</a> is accepted at <b> ECCV 2024</b>. (Code: <a href="https://github.com/TIBET-AI/TIBET"> )</td>
+              <td> Our paper <a href="https://arxiv.org/pdf/2312.01261.pd"> TIBET: Identifying and Evaluating Biases in Text-to-Image Generative Models.</a> is accepted at <b> ECCV 2024</b>. (Code: <a href="https://github.com/TIBET-AI/TIBET"> Github</a>)</td>
           </tr>     
           
           <tr>              
