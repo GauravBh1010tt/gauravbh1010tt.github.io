@@ -22,7 +22,7 @@ Hello, my name is Gaurav Bhatt. I am a PhD student in the CV-ML Lab at the Unive
 
 I am also an affiliated researcher at the <a href="https://vectorinstitute.ai/research/researchers/"> Vector Institute for AI</a> in Toronto. At the Vector Institute, I worked as a Technical Facilitator for the FastLane program, RAG boot camps and BIAS in AI workshop, supervising machine learning teams from various companies such as RBC Data Science, Canadian Tire, Scotia Bank, FirstHX, RealSage, NextIntelligence, and Formic-AI.
 
-In the summer of 2024, I began my internship at Amazon Science in Palo Alto, where my project focuses on solving the ranking-as-optimization problem. I am collaborating with Holakou Rahmanian, Kiran Thekumparampil, and Tanmay Gangwani.
+In the summer of 2024, I began my internship at Amazon Science in Palo Alto, where my project focuses on counterfactual reward maximization for data driven ranking. I am collaborating with Kiran Thekumparampil, Tanmay Gangwani, Evan Sheehan, and Holakou Rahmanian.
 
 In my free time, I enjoy playing badminton and table tennis, or listening to music. I used to be an avid DOTA2 player. :)
 
@@ -37,12 +37,12 @@ In my free time, I enjoy playing badminton and table tennis, or listening to mus
           
           <tr>              
               <td style="width:12%"><strong> [July 2024] </strong></td>
-              <td> Our paper <a href="https://arxiv.org/pdf/2403.14797.pdf"> Preventing Catastrophic Forgetting through Memory Networks in Continuous Detection. </a> is accepted at <b>ECCV 2024</b>. (Code: Coming soon on GitHub)</td>
+              <td> Our paper <a href="https://arxiv.org/pdf/2403.14797.pdf"> Preventing Catastrophic Forgetting through Memory Networks in Continuous Detection. </a> is accepted at <b>ECCV 2024</b>. (Code: <a href="https://github.com/GauravBh1010tt/MD-DETR"> GitHub</a>)</td>
           </tr>     
 
           <tr>              
               <td style="width:12%"><strong> [July 2024] </strong></td>
-              <td> Our paper <a href="https://arxiv.org/pdf/2312.01261.pd"> TIBET: Identifying and Evaluating Biases in Text-to-Image Generative Models.</a> is accepted at <b> ECCV 2024</b>. (Code: Coming soon on GitHub)</td>
+              <td> Our paper <a href="https://arxiv.org/pdf/2312.01261.pd"> TIBET: Identifying and Evaluating Biases in Text-to-Image Generative Models.</a> is accepted at <b> ECCV 2024</b>. (Code: <a href="https://github.com/TIBET-AI/TIBET"> )</td>
           </tr>     
           
           <tr>              
