@@ -30,10 +30,16 @@ In my free time, I enjoy playing badminton and table tennis, or listening to mus
 
 <table style="width:100%;border:1px;border-spacing:8px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           
+          
           <tr>              
               <td style="width:12%"><strong> [July 2024] </strong></td>
               <td> Started internship at <b>Amazon Science</b>, Palo Alto, US.</td>
-          </tr>     
+          </tr> 
+
+          <tr>              
+              <td style="width:12%"><strong> [July 2024] </strong></td>
+              <td> Serving as a reviewer for <b>ICLR'24, CVPR'24, ECCV'24, TPAMI, Pattern Recognition </b> </td>
+          </tr>      
           
           <tr>              
               <td style="width:12%"><strong> [July 2024] </strong></td>
