@@ -25,6 +25,36 @@ author_profile: true
 <tr style="border-collapse: separate; border-spacing:30em;">
 
 <td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/GauravBh1010tt/GauravBh1010tt.github.io/master/images/reward_rank.png" width="550"/>
+</td>
+
+<td style="border-collapse: collapse; border: none;">
+<b>[arXiv, 2025]</b> RewardRank: Optimizing True Learning-to-Rank Utility.
+  
+<b>Gaurav Bhatt*</b>, Kiran Koshy Thekumparampil, Tanmay Gangwani, Tesi Xiao, Leonid Sigal
+
+<br>
+
+<img src="https://raw.githubusercontent.com/GauravBh1010tt/GauravBh1010tt.github.io/master/images/pdf.png" width="20" height="20" hspace="5">
+<span><a href="https://arxiv.org/pdf/2508.14180">Paper</a></span>
+<br>
+<img src="https://raw.githubusercontent.com/GauravBh1010tt/GauravBh1010tt.github.io/master/images/github.png" width="20" height="20" hspace="5">
+<span><a href="https://github.com/GauravBh1010tt/RewardRank">code</a></span>
+<br>
+<br>
+</td>
+
+</tr>
+
+
+
+
+
+<table style="border: none; border-collapse: collapse;" border="0">
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+
+<td style="border-collapse: collapse; border: none;">
 <img src="https://raw.githubusercontent.com/GauravBh1010tt/GauravBh1010tt.github.io/master/images/md_detr.png" width="550"/>
 </td>
 
