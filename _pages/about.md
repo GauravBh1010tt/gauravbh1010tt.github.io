@@ -30,7 +30,11 @@ In my free time, I enjoy playing badminton and table tennis, or listening to mus
 
 <table style="width:100%;border:1px;border-spacing:8px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           
-          
+          <tr>              
+              <td style="width:12%"><strong> [Sep 2025] </strong></td>
+              <td> Our paper <a href="https://arxiv.org/pdf/2508.14180"> RewardRank: Optimizing True Learning-to-Rank Utility. </a> is on <b>arXiv</b>. (Code: <a href="https://github.com/GauravBh1010tt/RewardRank"> GitHub</a>)</td>
+          </tr> 
+
           <tr>              
               <td style="width:12%"><strong> [July 2024] </strong></td>
               <td> Started internship at <b>Amazon Science</b>, Palo Alto, US.</td>
