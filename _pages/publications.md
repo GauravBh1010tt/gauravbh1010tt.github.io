@@ -29,6 +29,31 @@ author_profile: true
 </td>
 
 <td style="border-collapse: collapse; border: none;">
+<b>[arXiv, 2025]</b> Alignment-Aware Model Adaptation via Feedback-Guided Optimization.
+  
+<b>Gaurav Bhatt*</b>, Aditya Chinchure, Jiawe Zhou, Leonid Sigal
+
+<br>
+
+<img src="https://raw.githubusercontent.com/GauravBh1010tt/GauravBh1010tt.github.io/master/images/pdf.png" width="20" height="20" hspace="5">
+<span><a href="https://arxiv.org/abs/2602.02258">Paper</a></span>
+<br>
+</td>
+
+</tr>
+
+
+
+
+<table style="border: none; border-collapse: collapse;" border="0">
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/GauravBh1010tt/GauravBh1010tt.github.io/master/images/reward_rank.png" width="550"/>
+</td>
+
+<td style="border-collapse: collapse; border: none;">
 <b>[arXiv, 2025]</b> RewardRank: Optimizing True Learning-to-Rank Utility.
   
 <b>Gaurav Bhatt*</b>, Kiran Koshy Thekumparampil, Tanmay Gangwani, Tesi Xiao, Leonid Sigal
