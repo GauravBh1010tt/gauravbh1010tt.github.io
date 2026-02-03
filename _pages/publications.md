@@ -29,7 +29,7 @@ author_profile: true
 </td>
 
 <td style="border-collapse: collapse; border: none;">
-<b>[arXiv, 2025]</b> Alignment-Aware Model Adaptation via Feedback-Guided Optimization.
+<b>[arXiv, 2026]</b> Alignment-Aware Model Adaptation via Feedback-Guided Optimization.
   
 <b>Gaurav Bhatt*</b>, Aditya Chinchure, Jiawe Zhou, Leonid Sigal
 
