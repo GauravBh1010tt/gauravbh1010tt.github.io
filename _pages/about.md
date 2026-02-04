@@ -22,7 +22,7 @@ Hello, my name is Gaurav Bhatt. I am a PhD student in the CV-ML Lab at the Unive
 
 I am also an affiliated researcher at the <a href="https://vectorinstitute.ai/research/researchers/"> Vector Institute for AI</a> in Toronto. At the Vector Institute, I worked as a Technical Facilitator for the FastLane program, RAG boot camps and BIAS in AI workshop, supervising machine learning teams from various companies such as RBC Data Science, Canadian Tire, Scotia Bank, FirstHX, RealSage, NextIntelligence, and Formic-AI.
 
-In the summer of 2024, I began my internship at Amazon Science in Palo Alto, where my project focuses on Data-driven reward model for training ranking models. I am collaborating with Kiran Thekumparampil, Tanmay Gangwani and Tesi Xiao.
+In the summer of 2024, I began my internship at Amazon Science in Palo Alto, where my project focuses on Data-driven reward model for training ranking models.
 
 In my free time, I enjoy playing badminton and table tennis, or listening to music. I used to be an avid DOTA2 player. :)
 
